@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umme-aimany" alt="umme-aimany" /></a> </p>
 
-- 🌱 I’m currently learning **WEB 3.O METAVERSE & DSA**
+- 🌱 I’m currently learning **Cloud Applied Generative AI Engineering & DSA**
 
 - 📫 How to reach me **khanummeaiman76@gmail.com**
 
