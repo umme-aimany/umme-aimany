@@ -8,9 +8,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+UMME+AIMAN!;" />
 </h1>
-<h3 align="center">I am a highly motivated and Google-certified MERN Stack & Chatbot Developer, driven by a relentless passion for innovation 🚀. My expertise lies in crafting robust web and mobile applications, where I harness the power of cutting-edge technologies such as JavaScript, ReactJS, NextJS, NodeJS, MongoDB, ExpressJS, React Native, Nuxt JS, Laravel, PHP, WordPress, and TypeScript. Additionally, I am proficient in using UI frameworks and libraries like Tailwind CSS, Shadow CSS, Material UI, Chakra UI, Daisy UI, and Ant Design to enhance the user experience.
+<h3 align="center">I am a highly motivated and Google-certified MERN Stack t Developer, driven by a relentless passion for innovation 🚀. My expertise lies in crafting robust web and mobile applications, where I harness the power of cutting-edge technologies such as JavaScript, ReactJS, NextJS, NodeJS, MongoDB, ExpressJS, React Native, and TypeScript. Additionally, I am proficient in using UI frameworks and libraries like Tailwind CSS, Shadow CSS, Material UI, Chakra UI, Daisy UI, and Ant Design to enhance the user experience.
 
-With over 4 years of hands-on experience, I have refined my skills in developing interactive and scalable solutions that cater to diverse user needs. My dedication extends to the realm of Chatbots, where I have invested significant time and effort in crafting intelligent conversational agents.
+With over 2 years of hands-on experience, I have refined my skills in developing interactive and scalable solutions that cater to diverse user needs. My dedication extends to the realm of development, where I have invested significant time and effort in crafting intelligent conversational agents.
 
 Proficient in implementing Chatbot solutions across platforms such as Alexa and Dialogflow, I ensure seamless interactions and elevate user experiences. Moreover, my proficiency in Generative AI allows me to explore various libraries and frameworks, pushing the boundaries of creativity in my projects.
 
