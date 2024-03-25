@@ -6,7 +6,7 @@
 <h2 align="center">Welcome to my GitHub profile!</h2>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+UMME AIMAN!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+UMME+AIMAN!;" />
 </h1>
 <h3 align="center">I am a highly motivated and Google-certified MERN Stack & Chatbot Developer, driven by a relentless passion for innovation 🚀. My expertise lies in crafting robust web and mobile applications, where I harness the power of cutting-edge technologies such as JavaScript, ReactJS, NextJS, NodeJS, MongoDB, ExpressJS, React Native, Nuxt JS, Laravel, PHP, WordPress, and TypeScript. Additionally, I am proficient in using UI frameworks and libraries like Tailwind CSS, Shadow CSS, Material UI, Chakra UI, Daisy UI, and Ant Design to enhance the user experience.
 
