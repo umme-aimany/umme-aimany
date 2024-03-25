@@ -27,28 +27,21 @@ Based in Pakistan, I am committed to pushing the technological envelope and deli
 
 - 🌱 I’m currently learning **Devops Cloud Blockchain**
 
-- 📝 I regularly write articles on [https://medium.com/@aribaabdulqadir](https://medium.com/@aribaabdulqadir)
 
 - 💬 Ask me about **ReactJs NextJs ReactNative Alexa Dialogflow Chatbots Generative AI**
 
-- 📫 How to reach me **aribaabdulqadir786@gmail.com**
+- 📫 How to reach me **khanummeaiman76@gmail.com**
 
   
 - Web and Applications
-- Shopify Store
-- Woocommerce
 - Mern Stack
 - Modern Full Stack 
-- Intelligent phone call / IVR Chatbot.
 - Google assistant apps - Google smart home apps.
-- Amazon Alexa skill - Alexa smart home apps.
-- WhatsApp, Facebook, Slack, Skype, Twitter, Telegram Chatbot.
-- All sorts of customized chatbots to integrate into Android, iOS, and Web Apps.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/aribamemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aribamemon" height="30" width="40" /></a>
-<a href="https://twitter.com/aribamemon786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aribamemon786" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thearibamemon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thearibamemon/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17882455/ariba-abdul-qadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17882455/ariba-abdul-qadir" height="30" width="40" /></a>
 <a href="https://fb.com/thearibamemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thearibamemon" height="30" width="40" /></a>
